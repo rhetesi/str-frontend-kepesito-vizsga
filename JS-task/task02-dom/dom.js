@@ -16,7 +16,7 @@ function changeOuterLinks() {
         elem.style.padding = '16px';
     })
 }
-changeOuterLinks()
+
 
 export {
     changeOuterLinks
